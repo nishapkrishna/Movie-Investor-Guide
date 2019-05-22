@@ -8,9 +8,11 @@ You will need an installation of Python, plus the following libraries:
 * NumPy
 * Matplotlib
 * csv
+
 Why this Project?
 In this project, you'll go through the data analysis process and see how everything fits together. Later Nanodegree projects will focus on individual pieces of the data analysis process.
 You'll use the Python libraries NumPy, pandas, and Matplotlib, which make writing data analysis code in Python a lot easier! Not only that, these are sought-after skills by employers!
+
 What will you learn?
 * After completing the project, you will:
 * Know all the steps involved in a typical data analysis process
@@ -20,6 +22,7 @@ What will you learn?
 * Be able to use vectorized operations in NumPy and pandas to speed up your data analysis code
 * Be familiar with pandas' Series and DataFrame objects, which let you access your data more conveniently
 * Know how to use Matplotlib to produce plots showing your findings
+
 Exploratory Data Analysis
 Tip: Now that you've trimmed and cleaned your data, you're ready to move on to exploration. Compute statistics and create visualizations with the goal of addressing the research questions that you posed in the Introduction section. It is recommended that you be systematic with your approach. Look at one variable at a time, and then follow it up by looking at relationships between variables.
 
