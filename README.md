@@ -60,6 +60,13 @@ Conclusions
 * Revenue is directly connected to the budget.
 * Movies with higher budgets have shown a corresponding increase in the revenues.
 
+![alt text](https://github.com/nishapkrishna/Movie-Investor-Guide/blob/master/3D.png)
+
+![alt text](https://github.com/nishapkrishna/Movie-Investor-Guide/blob/master/Genras_by_ROI.png)
+
+![alt text](https://github.com/nishapkrishna/Movie-Investor-Guide/blob/master/Genras_by_ROI.png)
+
+
 
 
 
